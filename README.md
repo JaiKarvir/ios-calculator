@@ -1,3 +1,10 @@
+# About this app
+This calculator is created using React17.0.1 and makes use for following React features:
+  * Stateful and stateless components
+  * ES6 class
+  * React functions
+  * Flexbox CSS3
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
