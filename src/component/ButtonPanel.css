@@ -1,0 +1,27 @@
+/*.component-buttonpanel{
+    flex: 1 0 auto;
+    flex-direction: row;
+    flex-wrap: wrap;
+    display: flex;
+}
+
+.component-buttonpanel >div{
+    width: 100%;
+    display: flex;
+    flex: 1 0 auto;
+    margin-bottom: 1px;
+}
+*/
+
+.component-buttonpanel{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    flex: 1 0 auto;
+}
+
+.component-buttonpanel > div{
+    width: 100%;
+    display: flex;
+    flex: 1 0 auto;
+}
